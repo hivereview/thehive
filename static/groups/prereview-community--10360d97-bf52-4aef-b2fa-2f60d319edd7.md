@@ -1,22 +1,52 @@
 ## Summary
 
-PREreview's mission is to bring more diversity to scholarly peer review by supporting and empowering community of researchers, particularly those at early stages of their career (ECRs) to review preprints.
+[PREreview](https://prereview.org) is a platform, resource center and convener. We provide ways for feedback to preprints to be done openly, rapidly, constructively, and by a global community of peers.
 
-We envision a system in which any researcher, regardless of their prior engagement with journal-organized peer review, career level, geographical location, institutional affiliation, research field, gender, sexual orientation, and ability is invited to share openly constructive feedback on early version of research manuscripts shared as preprints on any web server.
+Our mission is to bring more equity and transparency to scholarly peer review by supporting and empowering communities of researchers, particularly those at early stages of their career (ECRs) and historically excluded, to review preprints in a process that is rewarding to them.
+
+PREreview is a fiscally sponsored project of the non-profit organization [Code for Science and Society](https://codeforscience.org/).
 
 ## Evaluation model
 
-At PREreview we believe all researchers should be allowed to help others by reviewing the work of their peers, as long as it is done constructively.
+The PREreview platform is a free and open-source website for the crowdsourcing of preprint reviews (PREreviews). 
 
-In the interest of fostering an open and welcoming environment we, as contributors and maintainers, pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+As a registered user (PREreviewer), you are able to:
 
-We believe it is our duty as scientists at any level of our career to contribute to scientific evaluation in the form of peer review. PREreview provides a space for any researcher, independently of their career level, to provide feedback to emerging scientific output.
+- Switch between Public and a unique Anonymous Persona for any public action your perform on the platform
 
-At PREreview we ask all contributors to disclose any competing interest (CI) that may exist between a rapid review author (or affiliated organization) and the author(s) (or affiliated organization) of the reviewed preprint.
+- Request a PREreview on any preprint with a registered DOI
+
+- Fill out a rapid PREreview—a structured form of 12 yes/no/not sure/n.a. questions designed to capture the essence of the preprint
+
+- Compose a full PREreview—a text review report that upon submission is assigned a DOI via Zenodo
+
+- Comment on others’ full PREreviews
+
+- Endorse others’ full PREreviews via Plaudit.pub
+
+- Report others’ full PREreviews as violating our Code of Conduct
+
+- Join communities of like-minded reviewing groups
+
+- Start your own community
+
+As an unregistered user, you are able to:
+
+- Search for preprints that have PREreviews or requests for PREreviews on the site
+
+- Read and sort through aggregated rapid and full PREreviews alongside the preprint pdf (if available)
+
+- Search through PREreviewers and view users’ profiles and contributions to preprint reviews and scholarship
+
+In the interest of fostering an open and welcoming environment we, as contributors and maintainers, pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. We ask all community members to agree our [Code of Conduct](https://content.prereview.org/coc) and disclose any competing interest at the time of PREreview submission.
+
+Read more about the PREreview platform [here](https://content.prereview.org/about-the-platform).
 
 ## People
 
-Read more about [PREreview](https://content.prereview.org/about/#toc-anchor_4).
+PREreview is led by a small team of women scientists, all PhDs, all immigrants, all first generation, passionate about making science and scholarship more equitable, transparent, and accessible to all. 
+
+Read more about our team [here](https://content.prereview.org/people).
 
 ## Content license
 
